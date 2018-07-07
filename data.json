@@ -1,0 +1,46 @@
+{
+  "pofile":{
+    "name":"praneetha",
+    "label":"hello",
+    "email":"hamsapriya1499@gmail.com"
+  },
+  "career":{
+  "info":"To be more intellectual and to become successful towards organization"
+},
+"education":[
+
+  {
+    "degree":"B-tech (IT)",
+    "institute":"PVPSIT",
+    "data":["2016-20","93%"]
+  },
+  {
+    "degree":"INTER(MPC)",
+    "institute":"Sri chaitanya jr college",
+    "data":["2014-16","93%"]
+  },
+  {
+    "degree":"SSC",
+    "institute":"Samvida",
+    "data":["2013-14","93%"]
+  }
+],
+"skills":[
+  {
+    "title":"Languages",
+    "content":["c","python","java","c#","c++","PHP","R"]
+  },
+  {
+  "title": "DataBase",
+  "content":["SQL","MangoDB","Mysql"]
+},
+{
+"title":"WebTechnologies",
+"content":["HTML","CSS","javascript"]
+},
+{
+  "title":"Frameworks",
+  "content":["c","python"]
+}
+]
+}
